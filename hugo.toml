@@ -1,0 +1,50 @@
+baseURL = 'https://ipotato.top/'
+languageCode = 'en-us'
+title = 'Smart Money Moves'
+subtitle = 'Practical personal finance tips for everyday people'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  description = "Practical personal finance tips, budgeting strategies, and smart money moves for everyday people. Learn how to save, invest, and grow your wealth."
+  author = "Alex"
+  images = ["cover.png"]
+
+  [params.homeInfoParams]
+    Title = "Smart Money Moves 💰"
+    Content = "Practical personal finance tips for everyday people. No jargon, no BS — just real strategies to save more, invest smarter, and build wealth."
+
+  [[params.socialIcons]]
+    name = "tiktok"
+    url = "https://tiktok.com/@smartmoneymoves"
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/@smartmoneymoves"
+
+[params.analytics]
+  [params.analytics.google]
+    # Add your Google Analytics ID here after setup
+    # SiteID = "G-XXXXXXXXXX"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[minify]
+  disableXML = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
