@@ -57,20 +57,11 @@ showLikes = false
 [taxonomy]
   showTermCount = true
 
-[firebase]
-  {}
-
-[fathomAnalytics]
-  {}
-
-[verification]
-  {}
-
 [author]
   name = "Alex"
   image = "img/author.jpg"
   headline = "Smart money for regular people"
   bio = "Personal finance enthusiast helping regular people build wealth, one potato at a time."
-  links = [
-    { youtube = "https://youtube.com/@PotatoMoney" }
-  ]
+
+  [[author.links]]
+    youtube = "https://youtube.com/@PotatoMoney"
