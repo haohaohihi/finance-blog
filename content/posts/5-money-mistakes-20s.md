@@ -1,6 +1,6 @@
 ---
 title: "5 Money Mistakes Everyone Makes in Their 20s"
-date: 2026-06-06
+date: 2026-03-28
 draft: false
 tags: ["money-mistakes", "twenties", "personal-finance"]
 categories: ["Mindset"]

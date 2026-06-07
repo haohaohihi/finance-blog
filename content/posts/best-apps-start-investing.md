@@ -1,6 +1,6 @@
 ---
 title: "Best Apps to Start Investing with Just $100"
-date: 2026-06-06
+date: 2026-05-25
 draft: false
 tags: ["investing", "apps", "beginner", "reviews"]
 categories: ["Investing"]

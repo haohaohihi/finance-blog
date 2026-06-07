@@ -1,6 +1,6 @@
 ---
 title: "The Psychology of Spending: Why We Buy Things We Don't Need"
-date: 2026-06-06
+date: 2026-03-02
 draft: false
 tags: ["psychology", "spending", "behavioral-finance"]
 categories: ["Mindset"]

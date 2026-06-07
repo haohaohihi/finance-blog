@@ -1,6 +1,6 @@
 ---
 title: "How I Save 30% of My Income (And How You Can Too)"
-date: 2026-06-06
+date: 2026-03-15
 draft: false
 tags: ["savings", "personal-story", "money-tips"]
 categories: ["Savings"]

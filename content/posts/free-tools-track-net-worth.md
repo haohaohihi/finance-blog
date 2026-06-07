@@ -1,6 +1,6 @@
 ---
 title: "3 Free Tools to Track Your Net Worth"
-date: 2026-06-06
+date: 2026-06-08
 draft: false
 tags: ["net-worth", "tools", "tracking"]
 categories: ["Tools"]

@@ -1,6 +1,6 @@
 ---
 title: "Should You Pay Off Debt or Invest? A Simple Framework"
-date: 2026-06-06
+date: 2026-05-14
 draft: false
 tags: ["debt", "investing", "decision-framework"]
 categories: ["Strategy"]

@@ -1,6 +1,6 @@
 ---
 title: "Debt Snowball vs Debt Avalanche: Which Is Better?"
-date: 2026-06-06
+date: 2026-04-05
 draft: false
 tags: ["debt", "snowball", "avalanche", "payoff"]
 categories: ["Debt"]

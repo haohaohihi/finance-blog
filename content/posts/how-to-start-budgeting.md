@@ -1,6 +1,6 @@
 ---
 title: "How to Start Budgeting: A Beginner's Guide"
-date: 2026-06-06
+date: 2026-01-05
 draft: false
 tags: ["budgeting", "beginner", "money-management"]
 categories: ["Budgeting"]

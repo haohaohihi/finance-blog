@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Dividend Portfolio from Scratch"
-date: 2026-06-06
+date: 2026-06-01
 draft: false
 tags: ["dividends", "investing", "passive-income"]
 categories: ["Investing"]

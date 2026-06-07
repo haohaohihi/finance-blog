@@ -1,6 +1,6 @@
 ---
 title: "How to Read a Credit Report (And Fix Errors)"
-date: 2026-06-06
+date: 2026-04-19
 draft: false
 tags: ["credit", "credit-report", "credit-score"]
 categories: ["Credit"]

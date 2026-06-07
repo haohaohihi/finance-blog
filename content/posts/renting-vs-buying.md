@@ -1,6 +1,6 @@
 ---
 title: "Renting vs Buying: The Real Math Behind the Decision"
-date: 2026-06-06
+date: 2026-05-03
 draft: false
 tags: ["renting", "buying", "housing", "real-estate"]
 categories: ["Housing"]

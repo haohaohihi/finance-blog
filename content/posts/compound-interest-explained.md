@@ -1,6 +1,6 @@
 ---
 title: "Compound Interest: The 8th Wonder of the World"
-date: 2026-06-06
+date: 2026-02-17
 draft: false
 tags: ["compound-interest", "investing", "basics"]
 categories: ["Investing"]

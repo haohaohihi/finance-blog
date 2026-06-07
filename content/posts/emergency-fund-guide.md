@@ -1,6 +1,6 @@
 ---
 title: "Emergency Fund: Why You Need One and How to Build It"
-date: 2026-06-06
+date: 2026-01-18
 draft: false
 tags: ["emergency-fund", "savings", "basics"]
 categories: ["Savings"]
