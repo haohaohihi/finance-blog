@@ -1,4 +1,4 @@
-# Smart Money Moves - Personal Finance Blog
+# PotatoMoney - Personal Finance Blog
 
 ## Quick Start
 
@@ -40,8 +40,7 @@ content/
 
 ## Brand Info
 
-- **Blog Name:** Smart Money Moves
-- **Domain:** ipotato.top
+- **Blog Name:** PotatoMoney
+- **Domain:** blog.ipotato.top
 - **Author:** Alex
-- **TikTok:** @smartmoneymoves
-- **YouTube:** Smart Money Moves
+- **YouTube:** @PotatoMoney

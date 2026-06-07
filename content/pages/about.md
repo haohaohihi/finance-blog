@@ -6,7 +6,7 @@ summary: "about"
 
 Hi, I'm Alex. I'm a personal finance enthusiast who believes managing money shouldn't be complicated or intimidating.
 
-I started this blog because I was tired of personal finance advice that felt like it was written for Wall Street bankers, not regular people. Most of us aren't trying to become millionaires overnight — we just want to stop living paycheck to paycheck, build some savings, and feel in control of our finances.
+Welcome to **PotatoMoney** — a blog for regular people who want to get smarter with money. I started this because I was tired of personal finance advice that felt like it was written for Wall Street bankers, not the rest of us. Most of us aren't trying to become millionaires overnight — we just want to stop living paycheck to paycheck, build some savings, and feel in control of our finances.
 
 **What you'll find here:**
 

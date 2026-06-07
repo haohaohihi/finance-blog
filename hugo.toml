@@ -1,7 +1,7 @@
-baseURL = 'https://ipotato.top/'
+baseURL = 'https://blog.ipotato.top/'
 languageCode = 'en-us'
-title = 'Smart Money Moves'
-subtitle = 'Practical personal finance tips for everyday people'
+title = 'PotatoMoney'
+subtitle = 'Smart money for regular people'
 theme = 'PaperMod'
 
 [params]
@@ -13,21 +13,17 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = false
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
-  description = "Practical personal finance tips, budgeting strategies, and smart money moves for everyday people. Learn how to save, invest, and grow your wealth."
+  description = "PotatoMoney — practical personal finance tips, budgeting strategies, and smart money moves for regular people. Learn how to save, invest, and grow your wealth."
   author = "Alex"
   images = ["cover.png"]
 
   [params.homeInfoParams]
-    Title = "Smart Money Moves 💰"
-    Content = "Practical personal finance tips for everyday people. No jargon, no BS — just real strategies to save more, invest smarter, and build wealth."
-
-  [[params.socialIcons]]
-    name = "tiktok"
-    url = "https://tiktok.com/@smartmoneymoves"
+    Title = "PotatoMoney 🥔💰"
+    Content = "Smart money for regular people. No jargon, no BS — just real strategies to save more, invest smarter, and grow your wealth one potato at a time."
 
   [[params.socialIcons]]
     name = "youtube"
-    url = "https://youtube.com/@smartmoneymoves"
+    url = "https://youtube.com/@PotatoMoney"
 
 [params.analytics]
   [params.analytics.google]
