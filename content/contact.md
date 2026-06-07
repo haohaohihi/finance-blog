@@ -1,7 +1,6 @@
 ---
 title: "Contact"
-layout: "contact"
-summary: "contact"
+summary: "Get in touch"
 ---
 
 Got a question, suggestion, or want to work together? I'd love to hear from you.

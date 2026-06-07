@@ -1,7 +1,6 @@
 ---
 title: "About"
-layout: "about"
-summary: "about"
+summary: "About PotatoMoney"
 ---
 
 Hi, I'm Alex. I'm a personal finance enthusiast who believes managing money shouldn't be complicated or intimidating.

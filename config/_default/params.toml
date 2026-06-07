@@ -1,0 +1,76 @@
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["posts"]
+showViews = false
+showLikes = false
+
+[homepage]
+  layout = "background"
+  homepageImage = "/img/cover.jpg"
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = false
+  showReadingTime = true
+  cardView = true
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateUpdated = false
+  showAuthor = true
+  showHero = true
+  heroStyle = "basic"
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showSummary = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = true
+  showComments = false
+
+[list]
+  showHero = true
+  heroStyle = "basic"
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = true
+  showBreadcrumbs = false
+  showSummary = true
+  showTableOfContents = false
+  showCards = true
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = true
+
+[sitemap]
+  excludedKinds = []
+
+[taxonomy]
+  showTermCount = true
+
+[firebase]
+  {}
+
+[fathomAnalytics]
+  {}
+
+[verification]
+  {}
+
+[author]
+  name = "Alex"
+  image = "img/author.jpg"
+  headline = "Smart money for regular people"
+  bio = "Personal finance enthusiast helping regular people build wealth, one potato at a time."
+  links = [
+    { youtube = "https://youtube.com/@PotatoMoney" }
+  ]

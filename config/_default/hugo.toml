@@ -1,0 +1,9 @@
+baseURL = "https://blog.ipotato.top/"
+languageCode = "en-us"
+title = "PotatoMoney"
+theme = "blowfish"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"

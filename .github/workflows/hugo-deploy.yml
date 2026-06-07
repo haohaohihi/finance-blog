@@ -31,8 +31,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
           fetch-depth: 0
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -42,6 +45,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
+          hugo mod get
           hugo \
             --gc \
             --minify \

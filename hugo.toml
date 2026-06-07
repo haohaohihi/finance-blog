@@ -1,34 +1,5 @@
-baseURL = 'https://blog.ipotato.top/'
-languageCode = 'en-us'
-title = 'PotatoMoney'
-subtitle = 'Smart money for regular people'
-theme = 'PaperMod'
-
-[params]
-  defaultTheme = 'auto'
-  ShowReadingTime = true
-  ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = false
-  ShowRssButtonInSectionTermList = true
-  UseHugoToc = true
-  description = "PotatoMoney — practical personal finance tips, budgeting strategies, and smart money moves for regular people. Learn how to save, invest, and grow your wealth."
-  author = "Alex"
-  images = ["cover.png"]
-
-  [params.homeInfoParams]
-    Title = "PotatoMoney 🥔💰"
-    Content = "Smart money for regular people. No jargon, no BS — just real strategies to save more, invest smarter, and grow your wealth one potato at a time."
-
-  [[params.socialIcons]]
-    name = "youtube"
-    url = "https://youtube.com/@PotatoMoney"
-
-[params.analytics]
-  [params.analytics.google]
-    # Add your Google Analytics ID here after setup
-    # SiteID = "G-XXXXXXXXXX"
+baseURL = "https://blog.ipotato.top/"
+title = "PotatoMoney"
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -37,10 +8,3 @@ theme = 'PaperMod'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[minify]
-  disableXML = true
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'

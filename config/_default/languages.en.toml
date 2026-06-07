@@ -1,0 +1,11 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "PotatoMoney"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Smart money for regular people. Practical personal finance tips, budgeting strategies, and investing guides."
