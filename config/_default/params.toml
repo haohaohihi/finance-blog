@@ -11,7 +11,6 @@ showLikes = false
 
 [homepage]
   layout = "background"
-  homepageImage = "/img/cover.jpg"
   showRecent = true
   showRecentItems = 6
   showMoreLink = false
@@ -24,7 +23,7 @@ showLikes = false
   showLikes = false
   showDateUpdated = false
   showAuthor = true
-  showHero = true
+  showHero = false
   heroStyle = "basic"
   showBreadcrumbs = true
   showDraftLabel = true
@@ -39,7 +38,7 @@ showLikes = false
   showComments = false
 
 [list]
-  showHero = true
+  showHero = false
   heroStyle = "basic"
   layoutBackgroundBlur = true
   layoutBackgroundHeaderSpace = true
@@ -59,7 +58,6 @@ showLikes = false
 
 [author]
   name = "Alex"
-  image = "img/author.jpg"
   headline = "Smart money for regular people"
   bio = "Personal finance enthusiast helping regular people build wealth, one potato at a time."
 
