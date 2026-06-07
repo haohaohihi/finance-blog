@@ -1,9 +1,11 @@
 baseURL = "https://blog.ipotato.top/"
 languageCode = "en-us"
 title = "PotatoMoney"
-theme = "blowfish"
 
 [module]
+  [[module.imports]]
+    path = "github.com/nunocoracao/blowfish/v2"
+
   [module.hugoVersion]
     extended = true
     min = "0.87.0"
