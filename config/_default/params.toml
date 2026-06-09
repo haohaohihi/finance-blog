@@ -1,5 +1,5 @@
-colorScheme = "blowfish"
-defaultAppearance = "light"
+colorScheme = "potato"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 
 enableSearch = true
@@ -62,4 +62,4 @@ showLikes = false
   bio = "Personal finance enthusiast helping regular people build wealth, one potato at a time."
 
   [[author.links]]
-    youtube = "https://youtube.com/@PotatoMoney"
+    youtube = "https://www.youtube.com/@PotatoMoneyHQ"
