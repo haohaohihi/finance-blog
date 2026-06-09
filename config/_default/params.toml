@@ -2,11 +2,14 @@ colorScheme = "potato"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
+[umamiAnalytics]
+  websiteid = "bc351e8c-79ae-4710-80d6-841275853f36"
+
 enableSearch = true
 enableCodeCopy = true
 
 mainSections = ["posts"]
-showViews = false
+showViews = true
 showLikes = false
 
 [homepage]
@@ -19,7 +22,7 @@ showLikes = false
 
 [article]
   showDate = true
-  showViews = false
+  showViews = true
   showLikes = false
   showDateUpdated = false
   showAuthor = true
@@ -38,9 +41,9 @@ showLikes = false
   showComments = false
 
 [list]
-  showHero = false
-  heroStyle = "basic"
-  layoutBackgroundBlur = true
+  showViews = true
+  showLikes = false
+  showTableOfContents = false
   layoutBackgroundHeaderSpace = true
   showBreadcrumbs = false
   showSummary = true
